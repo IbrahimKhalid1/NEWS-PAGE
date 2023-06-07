@@ -7,9 +7,10 @@
   margin-top: 2%;
 }
 .t1 {
-  font-family: serif;
+  font-family: none;
   text-align: left;
   margin-right: 8%;
+  font-size: 23px;
 }
 .t2 {
   text-align: center;
@@ -18,7 +19,11 @@
   width: 15%;
   border-radius: 5px;
 }
+.spcaing2 {
+  text-indent: 15px;
+}
 .space1 {
+  margin-right: 3%;
   padding: 5%;
 }
 .RN {
@@ -41,7 +46,34 @@
 .btnbtnbtn {
   border-radius: 17px;
   width: 13%;
+  /* margin-right: 4%; */
 }
 .ccc {
-  color: aqua;
+  color: dodgerblue;
+}
+.ene {
+  font-size: xx-larger;
+}
+.epc {
+  font-weight: bolder;
+}
+.cdcc {
+  margin-left: 10px;
+}
+.floating {
+  margin-left: 40px;
+}
+.floating2 {
+  margin-right: 0px;
+  font-family: emoji;
+  font-size: medium;
+}
+.flo {
+  text-indent: 15px;
+}
+.cdcc {
+  font-size: small;
+}
+.btnbtnbtn {
+  padding-bottom: 10px;
 }
