@@ -1,0 +1,47 @@
+.pic_t {
+  margin-left: 10%;
+}
+.pic1 {
+  width: 90%;
+  height: 30%;
+  margin-top: 2%;
+}
+.t1 {
+  font-family: serif;
+  text-align: left;
+  margin-right: 8%;
+}
+.t2 {
+  text-align: center;
+}
+.space {
+  width: 15%;
+  border-radius: 5px;
+}
+.space1 {
+  padding: 5%;
+}
+.RN {
+  font-family: system-ui;
+  font-size: xxx-large;
+}
+.flex {
+  display: flex;
+  float: right;
+  margin-left: 9%;
+  margin-right: 5%;
+}
+.ccs2 {
+  margin-right: 8%;
+}
+/* .btn {
+  border-radius: 15%;
+  width: 17%;
+} */
+.btnbtnbtn {
+  border-radius: 17px;
+  width: 13%;
+}
+.ccc {
+  color: aqua;
+}
